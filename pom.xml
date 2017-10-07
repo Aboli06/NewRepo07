@@ -6,7 +6,7 @@
 	<artifactId>CounterWebAppTest</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>CounterWebApptest Maven Webapp</name>
+	<name>CounterWebAppTest Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<jdk.version>1.7</jdk.version>
@@ -169,7 +169,7 @@
     <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>val-TravelMate-4730-snapshots</name>
+        <name>mint-snapshots</name>
         <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
